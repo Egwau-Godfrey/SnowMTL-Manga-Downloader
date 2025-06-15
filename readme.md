@@ -50,7 +50,7 @@ python -m playwright install chromium
 python index.py
 ```
 
-2. Enter the URL of the manga (the tool will convert it to the reader format)
+2. Enter the URL of the manga e.g ( https://snowmtl.net/comics/a-will-eternal )
 3. Enter the chapter(s) you want to download:
    - Single chapter: Enter the chapter number (e.g., `7`)
    - Range of chapters: Enter a range (e.g., `1-5`)
